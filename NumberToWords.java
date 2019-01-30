@@ -1,4 +1,4 @@
-/*Dette programmet skriver ut tall fra bruker som tekst, endring 14.16 */
+/*Dette programmet skriver ut tall fra bruker som tekst, ny endring 14.26 */
 import java.util.Scanner;
 
 public class NumberToWords {
